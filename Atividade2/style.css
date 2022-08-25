@@ -14,9 +14,19 @@ body {
   }
 
   h3 {
+    border-top: 1px solid #363636;
     color:#363636;
   }
 
 div{
     color:#4F4F4F;
 }
+
+a {
+    color: #363636;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: blue
+  }
