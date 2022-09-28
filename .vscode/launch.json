@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TarefaApplication<tarefa>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.laisds.tarefa.TarefaApplication",
+            "projectName": "tarefa",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
